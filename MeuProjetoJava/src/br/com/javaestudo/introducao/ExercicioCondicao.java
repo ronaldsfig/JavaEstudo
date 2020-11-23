@@ -1,3 +1,5 @@
+package br.com.javaestudo.introducao;
+
 public class ExercicioCondicao {
     public static void main(String[] args) {
         double capital = 500;

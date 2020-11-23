@@ -1,3 +1,5 @@
+package br.com.javaestudo.introducao;
+
 public class Arrays {
     public static void main(String[] args) {
         String[] nomes = new String[3];

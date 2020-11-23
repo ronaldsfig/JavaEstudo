@@ -1,4 +1,4 @@
-import java.lang.ProcessHandle.Info;
+package br.com.javaestudo.introducao;
 
 public class Arrays2 {
     public static void main(String[] args) {
@@ -26,7 +26,7 @@ public class Arrays2 {
         }
 
 
-        
+
 
     }
 }

@@ -1,3 +1,5 @@
+package br.com.javaestudo.introducao;
+
 public class Condicao {
     public static void main(String[] args) {
         // até os 10 = não pode entrar no clube

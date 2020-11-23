@@ -1,3 +1,5 @@
+package br.com.javaestudo.introducao;
+
 public class OperadoresDeAtribuicao {
     public static void main(String[] args) {
         int salario = 1000;

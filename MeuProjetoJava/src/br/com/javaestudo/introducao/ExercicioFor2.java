@@ -1,3 +1,5 @@
+package br.com.javaestudo.introducao;
+
 public class ExercicioFor2 {
     public static void main(String[] args) {
         double valorCarro = 15000;

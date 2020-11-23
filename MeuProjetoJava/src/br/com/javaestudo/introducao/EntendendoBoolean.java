@@ -1,3 +1,5 @@
+package br.com.javaestudo.introducao;
+
 public class EntendendoBoolean {
     public static void main(String[] args) {
         String password = "123";

@@ -1,3 +1,5 @@
+package br.com.javaestudo.introducao;
+
 public class ExercicioFor {
     public static void main(String[] args) {
         // mostrar todos os números ímpares até x

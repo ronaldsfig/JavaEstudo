@@ -1,3 +1,5 @@
+package br.com.javaestudo.introducao;
+
 public class ImparOuPar {
     public static void main(String[] args) {
         int primeiroValor = 11;
